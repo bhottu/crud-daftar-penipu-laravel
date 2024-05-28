@@ -1,6 +1,6 @@
 
-```markdown
-# Daftar Penipu Tanaman Hias - LARAVEL
+# Daftar Penipu Tanaman Hias - Laravel
+by Nate Nasution a.k.a bhottu
 
 Ini adalah proyek Laravel untuk membuat daftar penipu tanaman hias. Pada dasarnya menggunakan CRUD dan kamu bisa modifikasi sesuai kebutuhan, semisal input data sekolah dll
 
@@ -17,10 +17,8 @@ Proyek ini mencakup fitur-fitur berikut:
 1. Clone repositori ini ke dalam direktori lokal Anda:
 
    ```bash
-   git clone https://github.com/bhottu/nama-repositori.git
+   git clone https://github.com/bhottu/crud-daftar-penipu-laravel.git
    ```
-
-   Ganti `https://github.com/bhottu/nama-repositori.git` dengan URL repositori GitHub Anda.
 
 2. Masuk ke direktori proyek:
 
@@ -78,7 +76,5 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buat _pull request_.
 ## Lisensi
 
 Proyek ini dilisensikan di bawah lisensi MIT.
-```
 
-Pastikan untuk mengganti `https://github.com/bhottu/nama-repositori.git` dengan URL repositori GitHub Anda, dan sesuaikan informasi lain sesuai dengan proyek Anda.
-=======
+
