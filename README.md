@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ```markdown
 # Daftar Penipu Tanaman Hias - LARAVEL
 
