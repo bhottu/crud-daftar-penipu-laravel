@@ -23,7 +23,7 @@ Proyek ini mencakup fitur-fitur berikut:
 2. Masuk ke direktori proyek:
 
    ```bash
-   cd DAFTAR-PENIPU-LARAVEL
+   cd nama-direktori-kamu
    ```
 
 3. Install dependencies menggunakan Composer:
