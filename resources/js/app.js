@@ -1,10 +1,10 @@
-import './bootstrap';
+// import './bootstrap';
 
 import Alpine from 'alpinejs';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap';
-import '../sass/app.scss';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap';
+// import '../sass/app.scss';
 
 window.Alpine = Alpine;
 
