@@ -78,6 +78,20 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buat _pull request_.
 
 Proyek ini dilisensikan di bawah lisensi MIT.
 
+## Dukungan / Donasi
+
+Halo semua! 👋
+
+Terima kasih telah mengunjungi repositori saya. Senang jika proyek ini bisa bermanfaat untuk Anda. Jika Anda merasa proyek ini membantu, Anda dapat mendukung saya melalui donasi.
+
+Setiap donasi yang Anda berikan akan berarti, sebagai bentuk dukungan untuk terus mengembangkan proyek ini serta membuat lebih banyak lagi proyek open source yang bermanfaat.
+
+<a href="https://saweria.co/bhottu" target="_blank">
+    <img src="https://github.com/bhottu/nate-social-media/assets/35356275/b0a6053d-4033-467f-8578-e99abed81710" alt="Saweria" width="200" />
+</a>
+
+Terima kasih banyak atas dukungan dan apresiasinya! 🙏
+
 ## Screenshoot
 
 Halaman login
